@@ -2,3 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
 }
+header {
+    background-color: #1e07ee;
+    padding: 20px;
+    text-align: center;
+}
